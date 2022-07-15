@@ -1,0 +1,136 @@
+---
+title: "Careers for Linguists"
+author: "Lars Hinrichs"
+format: 
+  revealjs:
+    theme: serif
+    transition: concave
+editor: visual
+---
+
+## Outline
+
+1.  My own experience
+2.  Reflection
+3.  A few tips
+
+## 
+
+# My own experience
+
+## Studies
+
+-   Bonn
+
+-   Leipzig
+
+-   Freiburg
+
+-   Chapel Hill, NC
+
+-   Freiburg
+
+-   Dr. phil. 2006
+
+## Pre-academic employment
+
+-   1989-1991: shelf filler at Edeka
+
+-   other student jobs...
+
+-   2001: GRA for Prof. Mair
+
+
+
+## Academic employment
+
+-   2003/4: taught first class as AI
+
+-   2005: taught class that Axel Bohmann took
+
+-   (2006: Dr. phil.)
+
+-   2006/07: Postdoc, Stanford U. and U. of Toronto
+
+-   2007-: Professor, English Language and Linguistics (tenured 2013), The University of Texas at Austin
+
+
+
+## Alt-ac employment
+
+-   Computational linguist German (de-DE), Million Entity Project, Siri International, Apple (through Advantis Global), March 2022-
+
+
+---
+
+...discretion...
+
+<p><br>
+
+:::: {.columns}
+::: {.column}
+
+#### What I cannot talk about
+
+::: {.incremental}
+
+-   Details of working for Siri
+
+-   My career outlook for the short term
+
+:::
+:::
+
+
+::: {.column}
+
+#### What I can say
+
+::: {.incremental}
+
+- "I teach Siri German", "I transcribe NEs for German Siri"
+
+- Majority of colleagues are lx. Ph.D.s
+
+- Current job is in many ways entry level
+
+- Pay very similar to my senior-level academic job
+
+:::
+:::
+::::
+
+
+# Reflection
+
+## A list of pros (but not cons)
+<p>
+
+:::: {.columns}
+::: {.column}
+
+
+#### Academic career
+::: {.incremental}
+
+- Creativity
+- Work with young people, many of whom smart 
+- Working hard on difficult stuff mostly for its own sake
+- Time management
+- Academic mobility
+
+:::
+:::
+
+::: {.column}
+
+#### Alt-ac career in tech
+::: {.incremental}
+
+- Job availability
+- Income
+- Demand
+
+:::
+:::
+::::
