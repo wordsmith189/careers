@@ -10,26 +10,46 @@ editor: visual
 
 ## Outline
 
-1.  My own experience
-2.  Reflection
-3.  A few tips
+1. Overview: Careers for linguists
+1. My own experience
+1. Reflection
+1. A few tips
 
-## 
+
+# Careers for linguists
+
+## Why does tech like linguists?
+
+::: {.incremental}
+- NLP
+- content analysis
+- voice assistants (Siri, Alexa & c.)
+- qual. research
+
+:::
 
 # My own experience
 
-## Studies
+## Ex. 1: A graduate student from UT Austin
+
+::: {.incremental}
+
+- Ph.D. in linguistics
+- Work for a market research company designing and overseeing focus group research
+- Became partner
+- Leading positions in UX research; head of UX at a timeshare company (such as AirBnB, Vrbo, HomeAway)
+
+:::
+
+## Ex. 2: Me
+
+### Studies in Am.St., English, German
 
 -   Bonn
-
 -   Leipzig
-
 -   Freiburg
-
 -   Chapel Hill, NC
-
 -   Freiburg
-
 -   Dr. phil. 2006
 
 ## Pre-academic employment
@@ -42,21 +62,24 @@ editor: visual
 
 ## Academic employment
 
+::: {.incremental}
+
 -   2003/4: taught first class as AI
 
--   2005: taught class that Axel Bohmann took
+-   2005: taught a class that Axel Bohmann took
 
 -   (2006: Dr. phil.)
 
 -   2006/07: Postdoc, Stanford U. and U. of Toronto
 
 -   2007-: Professor, English Language and Linguistics (tenured 2013), The University of Texas at Austin
+:::
 
-## Alt-ac employment
+## Alt-ac/tech employment
 
--   Computational linguist German (de-DE), Million Entity Project, Siri International, Apple (through Advantis Global), March 2022-
+Computational linguist German (de-DE)<br>Million Entity Project<br>Siri International<br>Apple (through Advantis Global)<br>March 2022-
 
-------------------------------------------------------------------------
+---
 
 ...discretion...
 
@@ -71,7 +94,7 @@ editor: visual
 ::: incremental
 -   Details of working for Siri
 
--   My career outlook for the short term
+-   My short-term career outlook 
 :::
 :::
 
@@ -81,7 +104,7 @@ editor: visual
 ::: incremental
 -   "I teach Siri German", "I transcribe NEs for German Siri"
 
--   Majority of colleagues are lx. Ph.D.s
+-   Majority of colleagues are ling. Ph.D.s
 
 -   Current job is in many ways entry level
 
@@ -91,31 +114,100 @@ editor: visual
 :::
 
 # Reflection
+<br>Two lists of pros (but not cons)
 
-## A list of pros (but not cons)
+---
 
-<p>
+::: {.columns}
+::: {.column}
 
-::: columns
-::: column
-#### Academic career
 
-::: incremental
--   Creativity
--   Work with young people, many of whom smart
--   Working hard on difficult stuff mostly for its own sake
--   Time management
--   Academic mobility
+#### + Academic career
+
+::: {.incremental}
+- Variety
+- Creativity
+- Working hard on difficult stuff mostly for its own sake
+- Indepentent time management
+- Academic mobility
 :::
 :::
 
-::: column
-#### Alt-ac career in tech
+::: {.column}
 
-::: incremental
--   Job availability
--   Income
--   Demand
+:::{.incremental}
+
+![Job duties of a professor: daily variety.](img/pie.png)
+
 :::
 :::
 :::
+
+---
+
+#### + Alt-ac career in tech
+
+::: {.incremental}
+- Job availability
+- Income
+- Demand
+- Application of skills
+- Clear limits to the workday
+- Remote work
+:::
+
+# A few tips for MA students in linguistics
+
+---
+
+:::: {.columns} 
+::: {.column}
+
+
+#### Preparing for academia
+
+::: {.incremental}
+
+- Learn R and/or Python
+- Pursue doctorate
+- Work on publications: have 1 single-authored journal article by the time you graduate
+- Attend conferences (limit 2/year!)
+
+
+:::
+:::
+
+
+::: {.column}
+#### Preparing for alt-ac/tech
+
+::: {.incremental}
+
+- Learn Python
+- (Get other qualifications and certificates)
+- **Start a LinkedIn profile**
+- Invest time and/or money into polishing up your LinkedIn: presentation, "self-branding", language, photo
+- Lgs. other than English/locale-majority lgs. huge benefit
+
+:::
+:::
+::::
+
+## How do you apply?
+
+::: {.incremental}
+- In academia, you (i) show up, e.g. at conferences, and (ii.) write applications. Lots.
+- In tech, you get contacted by recruiters, at least for entry-level jobs.
+- For both: "self-branding"
+:::
+
+## Alt-ac/non-tech
+
+::: {.incremental}
+- Granting agencies
+- Libraries
+- Journalism
+- University admin
+
+:::
+
