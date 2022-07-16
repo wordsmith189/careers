@@ -16,7 +16,7 @@ editor: visual
 1. A few tips
 
 
-# Careers for linguists
+# Overview
 
 ## Why does tech like linguists?
 
