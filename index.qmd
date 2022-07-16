@@ -161,7 +161,7 @@ Computational linguist German (de-DE)<br>Million Entity Project<br>Siri Internat
 ---
 
 :::: {.columns} 
-::: {.column}
+::: {.column width="40%"}
 
 
 #### Preparing for academia
@@ -178,7 +178,7 @@ Computational linguist German (de-DE)<br>Million Entity Project<br>Siri Internat
 :::
 
 
-::: {.column}
+::: {.column width="60%"}
 #### Preparing for alt-ac/tech
 
 ::: {.incremental}
