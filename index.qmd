@@ -3,15 +3,31 @@ title: "Careers for Linguists"
 author: "Lars Hinrichs"
 format: 
   revealjs:
-    theme: serif
+    theme: sky
     transition: slide
+    footer: "Lars Hinrichs  |  bit.ly/ling-careers"
 editor: visual
 ---
+
+<style>
+    .reveal section p {
+    display: inline-block;
+    font-size: 0.85em;
+    line-height: 1.3em;
+    vertical-align: top;
+  }
+    .reveal section ul {
+    display: inline-block;
+    font-size: 0.85em;
+    line-height: 1.3em;
+    vertical-align: top;
+  }
+</style>
 
 ## Outline
 
 1. Overview: Careers for linguists
-1. My own experience
+1. First-hand experience
 1. Reflection
 1. A few tips
 
@@ -28,7 +44,7 @@ editor: visual
 
 :::
 
-# My own experience
+# First-hand experience
 
 ## Ex. 1: A graduate student from UT Austin
 
@@ -102,13 +118,17 @@ Computational linguist German (de-DE)<br>Million Entity Project<br>Siri Internat
 #### What I can say
 
 ::: incremental
+
+
+
 -   "I teach Siri German", "I transcribe NEs for German Siri"
 
 -   Majority of colleagues are ling. Ph.D.s
 
 -   Current job is in many ways entry level
 
--   Pay very similar to my senior-level academic job
+-   Pay very similar to my mid-to-senior-level academic job
+
 :::
 :::
 :::
@@ -161,7 +181,7 @@ Computational linguist German (de-DE)<br>Million Entity Project<br>Siri Internat
 ---
 
 :::: {.columns} 
-::: {.column width="40%"}
+::: {.column width="45%"}
 
 
 #### Preparing for academia
@@ -171,20 +191,20 @@ Computational linguist German (de-DE)<br>Million Entity Project<br>Siri Internat
 - Learn R and/or Python
 - Pursue doctorate
 - Work on publications: have 1 single-authored journal article by the time you graduate
-- Attend conferences (limit 2/year!)
+- Attend conferences (limit 3/year!)
 
 
 :::
 :::
 
 
-::: {.column width="60%"}
+::: {.column width="55%"}
 #### Preparing for alt-ac/tech
 
 ::: {.incremental}
 
 - Learn Python
-- (Get other qualifications and certificates)
+- Other qualifications and certificates
 - **Start a LinkedIn profile**
 - Invest time and/or money into polishing up your LinkedIn: presentation, "self-branding", language, photo
 - Lgs. other than English/locale-majority lgs. huge benefit
@@ -195,19 +215,34 @@ Computational linguist German (de-DE)<br>Million Entity Project<br>Siri Internat
 
 ## How do you apply?
 
-::: {.incremental}
-- In academia, you (i) show up, e.g. at conferences, and (ii.) write applications. Lots.
-- In tech, you get contacted by recruiters, at least for entry-level jobs.
-- For both: "self-branding"
+::: incremental
+
+- In academia, 
+  1. show up, e.g. at conferences 
+  1. write applications (lots)
+  1. cover letters matter
+  
+- In tech
+  1. get contacted by recruiters, at least for entry-level jobs
+  1. cover letters don't matter
+
 :::
+
+---
+
+For both: "self-branding"
+
+> Make as many good impressions on as many different people as possible.
+
 
 ## Alt-ac/non-tech
 
-::: {.incremental}
+::: incremental
 - Granting agencies
 - Libraries
 - Journalism
 - University admin
+- ...
 
 :::
 
