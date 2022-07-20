@@ -1,11 +1,11 @@
 ---
 title: "Careers for Linguists"
-author: "Lars Hinrichs"
+subtitle: "Specifically, in Academia and in Tech<br> <br>Lars Hinrichs"
 format: 
   revealjs:
     theme: sky
     transition: slide
-    footer: "Lars Hinrichs  |  bit.ly/ling-careers"
+    footer: "Lars Hinrichs  |  ling-careers.netlify.app"
 editor: visual
 ---
 
@@ -34,10 +34,20 @@ editor: visual
 
 # Overview
 
+## Who hires linguists?
+
+- Academia
+- Government agencies
+- Amazon (Alexa, AWS, ...), Apple (Siri and everywhere else),  Google, Facebook, Twitter
+- Smaller, specialized tech companies
+- Research development (funding agencies)
+
+
 ## Why does tech like linguists?
 
-::: {.incremental}
+::: incremental
 - NLP
+- data science
 - content analysis
 - voice assistants (Siri, Alexa & c.)
 - chatbots
@@ -58,7 +68,7 @@ editor: visual
 
 :::
 
-## Ex. 2: Me
+## Ex. 2: First-hand experience
 
 ### Studies in Am.St., English, German
 
@@ -79,17 +89,18 @@ editor: visual
 
 ## Academic employment
 
-::: {.incremental}
+::: incremental
 
 -   2003/4: taught first class as AI
 
--   2005: taught a class that Axel Bohmann took
+-   2005: taught PS "Lg. & Cult. in Jamaica," which Axel Bohmann took
 
 -   (2006: Dr. phil.)
 
 -   2006/07: Postdoc, Stanford U. and U. of Toronto
 
 -   2007-: Professor, English Language and Linguistics (tenured 2013), The University of Texas at Austin
+
 :::
 
 ## Alt-ac/tech employment
@@ -148,7 +159,7 @@ Computational linguist German (de-DE)<br>Million Entity Project<br>Siri Internat
 ::: {.incremental}
 - Variety
 - Creativity
-- Working hard on difficult stuff mostly for its own sake
+- Work hard on difficult stuff, mostly for its own sake
 - Indepentent time management
 - Academic mobility
 :::
@@ -168,20 +179,27 @@ Computational linguist German (de-DE)<br>Million Entity Project<br>Siri Internat
 
 #### + Alt-ac career in tech
 
-::: {.incremental}
-- Job availability
+:::: columns
+::: column
+::: incremental
+- Job availability; demand for linguists
 - Income
-- Demand
 - Application of skills
 - Clear limits to the workday
-- Remote work
+- Job mobility; remote work
 :::
+:::
+
+::: column
+![Probably a tech worker (stock photo).](img/bun.png)
+:::
+::::
 
 # A few tips for MA students in linguistics
 
 ---
 
-:::: {.columns} 
+:::: columns
 ::: {.column width="45%"}
 
 
@@ -194,15 +212,15 @@ Computational linguist German (de-DE)<br>Million Entity Project<br>Siri Internat
 - Work on publications: have 1 single-authored journal article by the time you graduate
 - Attend conferences (limit 3/year!)
 
-
 :::
 :::
 
 
 ::: {.column width="55%"}
+
 #### Preparing for alt-ac/tech
 
-::: {.incremental}
+::: incremental
 
 - Learn Python
 - Other qualifications and certificates
@@ -219,12 +237,13 @@ Computational linguist German (de-DE)<br>Million Entity Project<br>Siri Internat
 ::: incremental
 
 - In academia, 
-  1. show up, e.g. at conferences 
+  1. publish
+  1. in-person networking: show up, e.g. at conferences 
   1. write applications (lots)
   1. cover letters matter
   
 - In tech
-  1. get contacted by recruiters, at least for entry-level jobs
+  1. get contacted by recruiters, at least for entry-level jobs (it's all LinkedIn and a bit of Xing)
   1. cover letters don't matter
 
 :::
@@ -233,17 +252,27 @@ Computational linguist German (de-DE)<br>Million Entity Project<br>Siri Internat
 
 For both: "self-branding"
 
-> Make as many good impressions on as many different people as possible.
+> Make as many good impressions on as many different people as possible. -- <em>Wolfgang Hochbruck</em>
 
 
 ## Alt-ac/non-tech
 
 ::: incremental
+
 - Granting agencies
+- University admin
 - Libraries
 - Journalism
-- University admin
 - ...
 
 :::
+
+---
+
+<center>
+<br> <br> <br> <br>
+<p>https://larshinrichs.site
+<br> <br>LH@utexas.edu
+</center>
+
 
